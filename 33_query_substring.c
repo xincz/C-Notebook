@@ -1,5 +1,6 @@
 #include "io_utils.h"
 #include <string.h>
+#include <stdlib.h>
 
 int main() {
     char *string = "Hello World!";
